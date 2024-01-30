@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a IEL researcher in Functional Safety Assessment at FORD Motor Company
-- 🌱 I’m currently a Computer Engineering student at UFAL
+- 🔭 Master's student in Informatics at UFAL
+- 🌱 Bachelor in Computer Engineer by UFAL
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a cat lover
 ---
